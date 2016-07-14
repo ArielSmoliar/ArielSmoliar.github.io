@@ -1,0 +1,14 @@
+body {
+background: rgba(0,255,0,0.1);
+
+}
+
+h1 {
+
+color: green;
+
+}
+
+#slogan {
+	font-style: italic;
+}
